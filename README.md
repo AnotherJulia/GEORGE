@@ -1,4 +1,4 @@
-# GEORGE
+# GEOspace Rocket for Gravity Exploration - GEORGE
  
 One of the most important design goals (and challenges) in the aerospace industry is to minimise weight while meeting defined load requirements. Thus, it is your job as a structural engineer to design a structure that meets these requirements while making it as light as possible. Even though you may have confidence in your design and the calculations you made, testing the structure will determine whether your design and assumptions are valid.
 
