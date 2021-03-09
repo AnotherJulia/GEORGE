@@ -1,2 +1,9 @@
 # GEORGE
  
+One of the most important design goals (and challenges) in the aerospace industry is to minimise weight while meeting defined load requirements. Thus, it is your job as a structural engineer to design a structure that meets these requirements while making it as light as possible. Even though you may have confidence in your design and the calculations you made, testing the structure will determine whether your design and assumptions are valid.
+
+In aviation, full scale testing is mandated to show that ultimate strength is met to the competent aviation certification authority. Throughout aviation history full scale testing has led to sometimes unexpected outcomes. In the moment, it might have been disappointing or surprising, but ultimately, new knowledge and insight was gained which prevented future failures and accidents. As such, failure does not mean you have failed. Engineers in the past have made mistakes, it is your job not to make the same mistakes and develop the ability to construct a safe design.
+
+While making sure your design will meet the requirements and is optimized for weight, do not forget that your structure needs to be manufactured. After all, the ‘perfect’ design which cannot be manufactured is useless. In the Launcher Compression Panel Design project, you will get the opportunity to test your engineering skills by designing a compression panel, then have it manufactured and tested to failure. Based on the data you are able to evaluate your design and determine where improvements can be made.
+
+As the Launcher Compression Panel Design project is the second project in Design and Construction course, you team is expected to be more independent, including planning your tasks in order to meet the project deadlines. The Support Department is available during project hours and will provide some guidance during the project sessions; however the support is less than in the previous project assignment.
