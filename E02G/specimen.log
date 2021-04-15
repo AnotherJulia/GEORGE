@@ -1,0 +1,11 @@
+(03/11/2021 10:48:13) Information [MPT Runtime] "Procedure Beginning: 20210309 Compression.000"
+(03/11/2021 10:48:13) Information [MPT Runtime] "Running"
+(03/11/2021 10:48:18) Warning [MPT/Data Limit] "Lower Limit tripped on '311.51 Frame Force'."
+(03/11/2021 10:48:18) Warning [MPT/Data Limit] "Data Limit Process Completed"
+(03/11/2021 10:50:18) Information [MPT/Failure Detector] "'Failure Detector 1': Failure Event Detected"
+(03/11/2021 10:50:18) Information [MPT/Failure Detector] "'Failure Detector 1': Failure Event Detected"
+(03/11/2021 10:50:32) Information [MPT Runtime] "Procedure Done"
+(03/11/2021 10:50:32) Information [MPT Runtime] "Stopped
+ Running Time:  00:02:18 
+ Channel Counters:
+    311.51 Frame -          0  Cycles"
